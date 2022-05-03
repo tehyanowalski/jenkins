@@ -1,3 +1,3 @@
-@echo off
-echo "Hello World!"
-pause
+ECHO OFF
+ECHO HELLO WORLD
+PAUSE
